@@ -1,0 +1,19 @@
+{
+  "ideas": [
+    {
+      "id": 1,
+      "title": "A weight tracker app",
+      "description": "An app that accepts a set of manual entries of weight measurements taken at different dates. It can plot a graph of data."
+    },
+    {
+      "id": 2,
+      "title": "A net worth calculator and tracker",
+      "description": "An app that you can use to track the rise or fall of your net worth on a monthly basis. Have it send you an annual report for the previous year on the first of January each year."
+    },
+    {
+      "id": 3,
+      "title": "A pixel art generator",
+      "description": "An app that takes an image as input and samples the image to produce pixel art as output."
+    }
+  ]
+}
